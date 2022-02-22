@@ -1,4 +1,6 @@
 # Genshin-Cheat-Base
+
+![GitHub top language](https://img.shields.io/github/languages/top/xsslize/Genshin-Cheat-Base)
 ![GitHub all releases](https://img.shields.io/github/downloads/xsslize/Genshin-Cheat-Base/total)
 
 Genshin cheat base with simple menu and pattern scanner
